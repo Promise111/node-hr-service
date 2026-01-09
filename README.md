@@ -1,5 +1,9 @@
 # Node.js HR Service
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Promise111/node-hr-service)
+
+**Repository**: [https://github.com/Promise111/node-hr-service](https://github.com/Promise111/node-hr-service) (main branch)
+
 A modern NestJS microservice for HR/Payroll employee management. This service is part of a gradual transition from Laravel to Node.js, designed to replace or complement the existing Laravel-based HR/Payroll API.
 
 ## Overview
